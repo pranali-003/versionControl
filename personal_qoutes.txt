@@ -1,3 +1,7 @@
 strength and guidance through struggle
 added new statement
+<<<<<<< HEAD
 color changed from blue to green
+=======
+
+>>>>>>> personal-color
